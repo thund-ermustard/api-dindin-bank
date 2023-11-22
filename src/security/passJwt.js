@@ -1,0 +1,1 @@
+module.exports = "senhajwt123";
